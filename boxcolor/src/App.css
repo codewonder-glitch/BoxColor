@@ -1,4 +1,16 @@
 .App {
   text-align: center;
+ 
 }
 
+.colorBox {
+  width: 300px;
+  height: 300px;
+  align-self: center;
+margin:auto auto;
+  
+}
+p{
+  font-size: xx-large;
+  margin:auto auto;
+}
